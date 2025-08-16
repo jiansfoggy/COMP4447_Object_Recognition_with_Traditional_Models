@@ -10,7 +10,7 @@
 
 `results.txt`: a log file to save all training and testing information.
 
-`cifar-10-data`: the data folder for model training and testing.
+`cifar-10-data`: the data folder for model training and testing. The image dataset is too large. Please read Data part to download it.
 
 `requirements.txt`: all required packages to run this code.
 
@@ -18,7 +18,7 @@
 
 `COMP 4447 Midterm Presentation.pptx`: slides for final presentation.
 
-`rf_weight.pkl` and `svm_weight.pkl`: pre-trained weight after training.
+`rf_weight.pkl` and `svm_weight.pkl`: pre-trained weight after training. They are over 2GB, so it is impossible to upload them. But, running `svm_rf.py` can help generate two pickle files.
 
 ## Dataset
 

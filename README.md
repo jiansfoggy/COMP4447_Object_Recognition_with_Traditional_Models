@@ -26,6 +26,8 @@ This project studies CIFAR-10. We download it from [here](https://www.cs.toronto
 
 Click `CIFAR-10 python version`.
 
+Name it `cifar-10-data`.
+
 ## Setup and initialize virtual environment
 
 ```bash
